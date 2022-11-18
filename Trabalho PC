@@ -1,8 +1,13 @@
-<h1>Delicias e Sabores</h1>
+<!DOCTYPE html>
+<html>
+<meta charset="UTF">
+  <h1>Delicias e Sabores</h1>
 
-<p>A delicia e sabores é um site de receitas fáceis e com os ingredientes que você tem ai na sua casa.
-São diversas guloseimas, aqui você não só aprende novas receitas como também pode trazer a sua.</p>
+  <p>A delicia e sabores é um site de receitas fáceis e com os ingredientes que você tem ai na sua casa.
+  São diversas guloseimas, aqui você não só aprende novas receitas como também pode trazer a sua.</p>
 
-<p>Aqui temos de tudo<strong> "doces, salgados, carnes, aves, peixes"<strong>,</em></p> tudo que você procura sobre culinária.
+  <p>Aqui temos de tudo <strong> "doces, salgados, carnes, aves, peixes"</strong> ,</em></p> tudo que você procura sobre culinária.
  
-<p>Trazemos os melhores profissionais para ensinar e trazer algumas novidades que você ainda não saiba.</p>
+  <p>Trazemos os melhores profissionais para ensinar e trazer algumas novidades que você ainda não saiba.</p>
+<html>
+
